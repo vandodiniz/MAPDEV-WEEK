@@ -2,6 +2,12 @@
 ## 🔎 Sobre o Projeto
 ### Introdução
 
+Motivado a praticar e aprofundar mais meus conhecimentos sobre desenvolvimento web, resolvi me matricular em um evento de HTML, CSS e JS. Nele, desenvolvi em uma semana um site que simula uma Pokedex.
+
+Features do site:
+*Design e Layout claros e objetivos;
+*Interação com o ponteiro e cliques do mouse;
+*Site totalmente responsivo;
 
 ### Data de implementação
 07/03/2022 - 14/03/2022
