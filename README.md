@@ -2,15 +2,22 @@
 ## 🔎 Sobre o Projeto
 ### Introdução
 
-Motivado a praticar e aprofundar mais meus conhecimentos sobre desenvolvimento web, resolvi me matricular em um evento de HTML, CSS e JS. Nele, desenvolvi em uma semana um site que simula uma Pokedex.
+Motivado a praticar e aprofundar mais meus conhecimentos sobre desenvolvimento web, resolvi me matricular em um evento de HTML, CSS e JS. Nele, desenvolvi em uma semana um site que simula uma Pokedex. Nele, o usuário pode selecionar diversos pokemons e ver mais informações a seu respeito.
 
 O site é hosteado pelo próprio GitHub através do GitHub Pages.
 
-Features do site:
+_Features do site:_
 
-*Design e Layout claros e objetivos;
-*Interação com o ponteiro e cliques do mouse;
-*Site totalmente responsivo;
+* Design e Layout claros e objetivos;
+
+* Interação com o ponteiro e cliques do mouse;
+
+* Site totalmente responsivo;
+
+* Alta Manutenibilidade 
+
+### Url do Site
+https://vandodiniz.github.io/pokedex/
 
 ### Data de implementação
 07/03/2022 - 14/03/2022
