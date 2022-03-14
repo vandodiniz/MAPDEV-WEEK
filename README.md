@@ -4,7 +4,10 @@
 
 Motivado a praticar e aprofundar mais meus conhecimentos sobre desenvolvimento web, resolvi me matricular em um evento de HTML, CSS e JS. Nele, desenvolvi em uma semana um site que simula uma Pokedex.
 
+O site é hosteado pelo próprio GitHub através do GitHub Pages.
+
 Features do site:
+
 *Design e Layout claros e objetivos;
 *Interação com o ponteiro e cliques do mouse;
 *Site totalmente responsivo;
